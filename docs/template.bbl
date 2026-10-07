@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{sscmanual_mcu_soc}
+SSCMA.
+\newblock {\em 专注于嵌入式人工智能的开源项目}.
+\newblock SSCMA, 2024.
+\newblock 访问日期：2026-10-06.
+
+\bibitem{espressif_esp32s3_hdg}
+Espressif Systems.
+\newblock {\em ESP 硬件设计指南}.
+\newblock Espressif Systems, 2024.
+\newblock 在线文档，访问日期：2026-10-05.
+
+\bibitem{yufanwei_mcu_soc}
+宇凡微.
+\newblock {\em 单片机和soc的区别}.
+\newblock 宇凡微电子, 2023.
+\newblock 知乎专栏，访问日期：2026-10-05.
+
+\end{thebibliography}
