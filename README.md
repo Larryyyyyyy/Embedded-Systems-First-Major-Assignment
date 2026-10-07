@@ -26,7 +26,7 @@ Embedded-Systems-First-Major-Assignment/
 ├── models                        # 参考模型文件
 │   ├── mnist-12.onnx             # 初版方案
 │   └── fomo_mask_int8.tflite     # 终版方案
-├── ModelAssistant                # 引用开源项目
+├── ModelAssistant                # 引用开源项目, 位于 https://github.com/Seeed-Studio/ModelAssistant
 └── README.md                     # 本文档
 ```
 
